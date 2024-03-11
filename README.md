@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+B.Sc. in Mathematics from McGill University, with expertise in data analysis and machine learning model lifecycle, including development and deployment. Experienced in ETL processes, leveraging Python, Spark, and Microsoft Azure. Skilled in transforming data insights into actionable solutions, positioning me as a versatile Machine Learning Engineer.
 <!--
 **Germanifold91/Germanifold91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
