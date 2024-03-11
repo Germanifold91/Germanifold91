@@ -1,5 +1,5 @@
-### Hi there 👋
-B.Sc. in Mathematics from McGill University, with expertise in data analysis and machine learning model lifecycle, including development and deployment. Experienced in ETL processes, leveraging Python, Spark, and Microsoft Azure. Skilled in transforming data insights into actionable solutions, positioning me as a versatile Machine Learning Engineer.
+### Hello there stranger 🕷
+Hi there! I'm German Romero. I graduated with a B.Sc. in Mathematics from McGill University and dove deep into the world of data analysis and the lifecycle of machine learning models — right from their development to deployment. I've got a knack for ETL processes and love working with Python, and Spark. Turning complex data insights into practical solutions is kind of my thing. Looking forward to connecting and learning about MlOps and Data Engineering. 
 <!--
 **Germanifold91/Germanifold91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
